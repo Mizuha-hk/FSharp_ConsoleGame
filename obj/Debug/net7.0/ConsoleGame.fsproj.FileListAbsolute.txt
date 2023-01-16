@@ -1,0 +1,2 @@
+c:\Users\hkhar\.vscode\F#\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfoInputs.cache
+c:\Users\hkhar\.vscode\F#\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfo.fs
