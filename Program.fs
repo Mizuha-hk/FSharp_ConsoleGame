@@ -1,6 +1,8 @@
 ﻿namespace ConsoleGame
 
 open System
+open Bord
+open Player
 
 type Program public () =
 
